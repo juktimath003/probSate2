@@ -1,4 +1,3 @@
-package probSate2;
 public class RectPerimeter {
     private double length;
     private double breadth;
