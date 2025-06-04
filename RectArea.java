@@ -1,4 +1,3 @@
-package probSate2;
 public class RectArea {
     private double length;
     private double breadth;
